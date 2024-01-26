@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th{
+    background-color: white;
+}
+
+td{
+    background-color: #FFB6C1;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-pastel-sky-background_52683-60513.jpg"); /* The image used */
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+}
